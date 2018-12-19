@@ -1,0 +1,4 @@
+22:01:02.565 [main] INFO  com.linkedin.testcases.Login - Chrome Browser value assigned to Driver
+22:01:07.935 [main] INFO  com.linkedin.testcases.Login - Browser Maximised
+22:01:08.400 [main] INFO  com.linkedin.testcases.Login - Cache winodow closed
+22:01:09.257 [main] INFO  com.linkedin.testcases.Login - Email address is Entered
